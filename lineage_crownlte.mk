@@ -18,10 +18,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Product API level
-$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
 
-# Inherit from starlte device
-$(call inherit-product, device/samsung/starlte/device.mk)
+# Inherit from crownlte device
+$(call inherit-product, device/samsung/crownlte/device.mk)
 
 # Boot Animation
 TARGET_SCREEN_HEIGHT := 2960
@@ -31,10 +31,10 @@ TARGET_SCREEN_WIDTH := 1440
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 ## Device identifier, this must come after all inclusions
-PRODUCT_NAME := lineage_starlte
-PRODUCT_DEVICE := starlte
+PRODUCT_NAME := lineage_crownlte
+PRODUCT_DEVICE := crownlte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G960F
+PRODUCT_MODEL := SM-N960F
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung

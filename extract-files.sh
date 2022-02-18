@@ -22,7 +22,7 @@ fi
 
 set -e
 
-export DEVICE=starlte
+export DEVICE=crownlte
 export DEVICE_COMMON=exynos9810-common
 export VENDOR=samsung
 

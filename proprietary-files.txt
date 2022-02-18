@@ -71,7 +71,6 @@ vendor/app/mcRegistry/ffffffff00000000000000000000003e.tlbin
 
 # NFC
 vendor/firmware/nfc/sec_s3nrn82_firmware.bin
-vendor/firmware/nfc/BRI/sec_s3nrn82_firmware.bin
 
 # Samsung SLSI IVA
 -vendor/lib/libhifistill.so
@@ -91,10 +90,6 @@ vendor/firmware/iva20_rt-lhotse.bin
 vendor/etc/wifi/bcmdhd_clm.blob
 vendor/etc/wifi/bcmdhd_mfg.bin_b2
 vendor/etc/wifi/bcmdhd_sta.bin_b2
-vendor/etc/wifi/nvram.txt_murata_r031_b0
-vendor/etc/wifi/nvram.txt_murata_r032_b0
-vendor/etc/wifi/nvram.txt_murata_r033_b0
 vendor/etc/wifi/nvram.txt_murata_r041_b2
 vendor/etc/wifi/nvram.txt_r02a_b2
 vendor/etc/wifi/nvram.txt_r02b_b2
-vendor/etc/wifi/nvram.txt_r02j_b0

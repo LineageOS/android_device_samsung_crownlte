@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
     <item name="none">0</item>
-    <item name="ambient.on">20</item>
-    <item name="screen.on">72</item>
-    <item name="screen.full">273</item>
+    <item name="ambient.on">21</item>
+    <item name="screen.on">73</item>
+    <item name="screen.full">323</item>
     <item name="audio">35</item>
-    <item name="video">181</item>
+    <item name="video">187</item>
     <item name="camera.flashlight">86</item>
     <item name="camera.avg">442</item>
     <item name="gps.on">38</item>
@@ -89,7 +89,7 @@
     </array>
     <item name="cpu.suspend">3.7</item>
     <item name="cpu.idle">17</item>
-    <item name="battery.capacity">3000</item>
+    <item name="battery.capacity">4000</item>
     <item name="wifi.controller.idle">1</item>
     <item name="wifi.controller.rx">65</item>
     <item name="wifi.controller.tx">265</item>
