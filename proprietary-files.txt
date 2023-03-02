@@ -1,4 +1,4 @@
-# Proprietary files - from Samsung package version N960FXXS9FVE1, unless pinned
+# Proprietary files - from Samsung package version N960FXXU9FVK1, unless pinned
 
 # Audio
 vendor/etc/dolby/dax-default.xml
